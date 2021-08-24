@@ -1,2 +1,2 @@
-# react2-AtomicDesign
+# react-u-step2
 Created with CodeSandbox
